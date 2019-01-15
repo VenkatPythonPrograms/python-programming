@@ -1,2 +1,2 @@
 # python-programming
-The repository contains program related to Python
+The repository contains Python  Programs
